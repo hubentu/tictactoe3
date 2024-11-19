@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/hubentu/tictactoe3/',
+  //base: '/hubentu/tictactoe3/',
 });
